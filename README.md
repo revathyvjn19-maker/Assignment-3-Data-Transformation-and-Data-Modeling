@@ -57,6 +57,7 @@ Syntax
 
 # Merging Data (Joins):
 ●	Merge the "List of Orders" and "Order Details" tables into a new single table named "Orders Data" based on the "Order ID" relationship.
+
 **Merged the "List of Orders" and "Order Details" tables into a new single table named "Orders Data" based on the "Order ID" relationship
 Home – Merge Queries – Merge Queries as New**
 
