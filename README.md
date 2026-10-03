@@ -81,7 +81,8 @@ Home – Merge Queries – Merge Queries as New**
 
 **Select Location Column – Select the “ Tamil Nadu” state from the drop down**
 
-Grouping and Aggregating Data:
+# Grouping and Aggregating Data:
+
 ●	Duplicate the “Order Details” table and calculate the count of each Order ID, average profit by Category or total amount by Sub-Category.
 Duplicate “ Order details” table – Group by Order ID – Operation given as count rows – Ok
 **Duplicate “Order details” table - Group by Sub category – Operation given as Sum  and Column given as amount – ok**
@@ -90,7 +91,7 @@ Duplicate “ Order details” table – Group by Order ID – Operation given a
 
 **Duplicate “Sale target” table – Group by – Month of order date – operation given as sum  - and column given as “Target”**
 
-Data Modeling:
+# Data Modeling:
 ●	Establish a relationship between the “List of Orders” and “Order Details” tables using the ‘Order ID’ column.
 
 **Modeling – Manage Relationship – New relationship – give from table as Order details  and To table as List of Order– Set cardinality as Many to one  and set cross filter direction – Save**
