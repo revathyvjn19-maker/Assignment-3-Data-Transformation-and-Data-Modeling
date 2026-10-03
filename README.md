@@ -69,7 +69,8 @@ Home – Merge Queries – Merge Queries as New**
 **Select column - Home – Remove Rows- Remove  Duplicates**
 
 
-Sorting and Filtering Data:
+# Sorting and Filtering Data:
+
 ●	In the ‘Orders Data’ table, utilize sorting and filtering techniques on columns like Order Date, State or Category to analyze data based on specific criteria:
 ◆	Sort the orders by Order Date in descending order to analyze recent trends.
 
